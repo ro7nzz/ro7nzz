@@ -1,31 +1,32 @@
 
-<!-- ========== ANIMATED HEADER ========== -->
+<!-- ===================================================== -->
+<!--                 ROHAN HANDE | AI ENGINEER              -->
+<!-- ===================================================== -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=ROHAN%20HANDE&fontSize=55&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=AI%20%7C%20ML%20%7C%20COMPUTER%20VISION&descAlignY=58&descSize=18" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:020024,35:090979,70:00D4FF,100:7B2CFF&text=ROHAN%20HANDE&fontSize=70&fontColor=FFFFFF&fontAlignY=42&stroke=00F7FF&strokeWidth=2&animation=twinkling&desc=AI%20%2F%20ML%20ENGINEER%20%7C%20INTELLIGENCE%20BUILDER&descSize=17&descAlignY=62"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Rohan+Hande+%F0%9F%91%8B;AI%2FML+Developer;Building+Intelligent+Real-World+Solutions;Exploring+Computer+Vision+%26+Generative+AI;Turning+Ideas+Into+Intelligent+Systems" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2000&pause=700&color=00F7FF&center=true&vCenter=true&width=900&height=60&lines=INITIALIZING+AI+DEVELOPER+PROFILE...;ARTIFICIAL+INTELLIGENCE+%7C+MACHINE+LEARNING;COMPUTER+VISION+%7C+DEEP+LEARNING;GENERATIVE+AI+%7C+LLMs+%7C+AI+AGENTS;BUILDING+INTELLIGENT+REAL-WORLD+SOLUTIONS"/>
 
 <br/><br/>
 
-<a href="https://github.com/ro7nzz">
-<img src="https://komarev.com/ghpvc/?username=ro7nzz&label=PROFILE+VIEWS&color=00D9FF&style=for-the-badge"/>
-</a>
-
-<a href="https://github.com/ro7nzz?tab=followers">
-<img src="https://img.shields.io/github/followers/ro7nzz?label=FOLLOWERS&style=for-the-badge&color=203a43"/>
-</a>
+<img src="https://komarev.com/ghpvc/?username=ro7nzz&style=for-the-badge&color=00D9FF&label=PROFILE+VISITORS"/>
+<img src="https://img.shields.io/github/followers/ro7nzz?style=for-the-badge&color=7B2CFF&label=FOLLOWERS"/>
 
 </div>
 
 ---
 
-<!-- ========== ABOUT ME ========== -->
+<div align="center">
 
-## 👨‍💻 About Me
+# `> SYSTEM_PROFILE.exe`
+
+**WELCOME TO MY DIGITAL UNIVERSE**
+
+</div>
 
 ```python
 class RohanHande:
@@ -33,85 +34,104 @@ class RohanHande:
     def __init__(self):
         self.name = "Rohan Hande"
         self.role = "AI/ML Developer"
-        self.interests = [
-            "Artificial Intelligence",
+        self.location = "India"
+
+        self.expertise = [
             "Machine Learning",
-            "Computer Vision",
             "Deep Learning",
+            "Computer Vision",
             "Generative AI",
-            "LLMs & AI Agents"
+            "Large Language Models",
+            "AI Agents"
         ]
 
-        self.current_focus = "Building Intelligent Systems"
-        self.goal = "Creating AI that solves real-world problems"
+        self.current_mission = "Building Intelligent Systems"
 
-    def say_hi(self):
-        print("Thanks for visiting my GitHub! Let's build something amazing.")
+    def objective(self):
+        return "Transforming ideas into intelligent solutions."
 
-me = RohanHande()
-me.say_hi()
+developer = RohanHande()
+print(developer.objective())
 ```
 
-- 🔭 Currently working on **RoadAI – AI-Powered Road Intelligence**
-- 🌱 Exploring **Deep Learning, Computer Vision, Generative AI & AI Agents**
-- 🤖 Interested in building practical AI/ML applications.
-- 👯 Open to collaborating on AI/ML and Computer Vision projects.
-- 💬 Ask me about Python, Machine Learning, YOLO and AI projects.
-- 📫 Reach me at: **rohanhande510@gmail.com**
+<div align="center">
+
+<img src="https://img.shields.io/badge/STATUS-ONLINE-00FF9C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FOCUS-ARTIFICIAL_INTELLIGENCE-00D9FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MODE-BUILDING-9B59FF?style=for-the-badge"/>
+
+</div>
 
 ---
 
-<!-- ========== FEATURED PROJECTS ========== -->
+<div align="center">
 
-## 🚀 Featured Projects
+# `> PROJECT_DATABASE`
+
+### 🚀 BUILDING THE FUTURE
+
+</div>
 
 <table>
 <tr>
-<td width="50%">
-
-<h3 align="center">🛣️ RoadAI</h3>
+<td width="50%" valign="top">
 
 <div align="center">
-<img src="https://img.shields.io/badge/AI-Computer_Vision-00D9FF?style=flat-square"/>
-<img src="https://img.shields.io/badge/Model-YOLO11n-blue?style=flat-square"/>
+
+## 🛣️ RoadAI
+
+<img src="https://img.shields.io/badge/AI-COMPUTER_VISION-00D9FF?style=for-the-badge"/>
+
 </div>
 
-<p align="center">
-An AI-powered road damage intelligence and repair prioritization system that detects road damage and generates explainable repair priority scores.
-</p>
+An AI-powered road damage intelligence and repair prioritization platform.
 
-<p align="center">
-<b>Tech:</b> Python • YOLO • FastAPI • React • SQLite
-</p>
+- YOLO11n object detection
+- Four road damage categories
+- Severity estimation
+- Explainable repair priority scoring
+- Interactive web dashboard
 
-<p align="center">
+**TECH STACK**
+
+`Python` `YOLO` `FastAPI` `React` `SQLite`
+
+<div align="center">
+
 <a href="https://github.com/ro7nzz/Road-Intelligence-Dashboard">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/EXPLORE_PROJECT-00D9FF?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
-</p>
+
+</div>
 
 </td>
 
-<td width="50%">
-
-<h3 align="center">💧 AquaSenseAI</h3>
+<td width="50%" valign="top">
 
 <div align="center">
-<img src="https://img.shields.io/badge/AI-Water_Intelligence-00D9FF?style=flat-square"/>
-<img src="https://img.shields.io/badge/Focus-Anomaly_Detection-blue?style=flat-square"/>
+
+## 💧 AquaSenseAI
+
+<img src="https://img.shields.io/badge/AI-WATER_INTELLIGENCE-9B59FF?style=for-the-badge"/>
+
 </div>
 
-<p align="center">
-An AI/ML-powered urban water intelligence system focused on consumption analytics, leakage detection, anomaly identification and demand forecasting.
-</p>
+An AI/ML-powered urban water intelligence system.
 
-<p align="center">
-<b>Tech:</b> Python • Machine Learning • Pandas • SQL • Power BI
-</p>
+- Water consumption analytics
+- Leakage and anomaly detection
+- Water-loss intelligence
+- Demand forecasting
 
-<p align="center">
-<img src="https://img.shields.io/badge/STATUS-IN_DEVELOPMENT-orange?style=for-the-badge"/>
-</p>
+**TECH STACK**
+
+`Python` `Machine Learning` `Pandas` `SQL` `Power BI`
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/STATUS-IN_DEVELOPMENT-9B59FF?style=for-the-badge"/>
+
+</div>
 
 </td>
 </tr>
@@ -119,103 +139,89 @@ An AI/ML-powered urban water intelligence system focused on consumption analytic
 
 ---
 
-<!-- ========== TECH STACK ========== -->
-
-## 🛠️ Languages & Technologies
-
-### Programming Languages
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,html,css&theme=dark"/>
-</p>
-
-### AI / Machine Learning
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn&theme=dark"/>
-</p>
-
-### Frameworks & Databases
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=fastapi,react,nodejs,express,mongodb,mysql,postgres,sqlite,firebase&theme=dark"/>
-</p>
-
-### Tools & Platforms
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark"/>
-</p>
-
----
-
-<!-- ========== GITHUB STATISTICS ========== -->
-
-## 📊 GitHub Analytics
-
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ro7nzz&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+# `> TECHNOLOGY_MATRIX`
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ro7nzz&layout=compact&theme=tokyonight&hide_border=true"/>
+### ⚡ PROGRAMMING LANGUAGES
 
-<br/><br/>
+<img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,html,css&theme=dark"/>
 
-<img width="75%" src="https://streak-stats.demolab.com?user=ro7nzz&theme=tokyonight&hide_border=true"/>
+### 🧠 ARTIFICIAL INTELLIGENCE & ML
 
-<br/><br/>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn&theme=dark"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=ro7nzz&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" width="100%"/>
+### ⚙️ FRAMEWORKS & DATABASES
+
+<img src="https://skillicons.dev/icons?i=fastapi,react,nodejs,express,mongodb,mysql,postgres,sqlite,firebase&theme=dark"/>
+
+### 🛠️ DEVELOPMENT TOOLS
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark"/>
 
 </div>
 
 ---
 
-<!-- ========== LEETCODE ========== -->
+<div align="center">
 
-## 🧩 Problem Solving
+# `> GITHUB_COMMAND_CENTER`
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ro7nzz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00F7FF&icon_color=9B59FF&text_color=FFFFFF&rank_icon=github"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ro7nzz&layout=compact&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00F7FF&text_color=FFFFFF"/>
+
+<br/><br/>
+
+<img width="75%" src="https://streak-stats.demolab.com?user=ro7nzz&theme=tokyonight&hide_border=true&background=050816&ring=00F7FF&fire=9B59FF&currStreakLabel=00F7FF"/>
+
+<br/><br/>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=ro7nzz&bg_color=050816&color=00F7FF&line=9B59FF&point=FFFFFF&area=true&hide_border=true&custom_title=NEURAL%20ACTIVITY%20%7C%20CONTRIBUTION%20GRAPH"/>
+
+</div>
+
+---
 
 <div align="center">
 
+# `> PROBLEM_SOLVING.exe`
+
 <a href="https://leetcode.com/u/rohan738545/">
-<img src="https://leetcard.jacoblin.cool/rohan738545?theme=dark&font=Fira%20Code&ext=heatmap" width="75%"/>
+<img src="https://leetcard.jacoblin.cool/rohan738545?theme=dark&font=Fira%20Code&ext=heatmap" width="80%"/>
 </a>
 
 </div>
 
 ---
 
-<!-- ========== CONNECT ========== -->
+<div align="center">
 
-## 🌐 Let's Connect
-
-<p align="center">
+# `> ESTABLISH_CONNECTION`
 
 <a href="https://github.com/ro7nzz">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=00F7FF"/>
 </a>
 
 <a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:rohanhande510@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://leetcode.com/u/rohan738545/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+<img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
-</p>
+<br/><br/>
 
----
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=THE+FUTURE+IS+INTELLIGENT.;KEEP+BUILDING.+KEEP+INNOVATING.;SEE+YOU+IN+THE+NEXT+COMMIT.+%F0%9F%9A%80"/>
 
-<div align="center">
+<br/>
 
-### 💡 "Building intelligence, one idea at a time."
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer&animation=fadeIn" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2CFF,50:090979,100:020024&height=160&section=footer&animation=twinkling"/>
 
 </div>
 
