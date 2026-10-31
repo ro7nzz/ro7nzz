@@ -1,30 +1,47 @@
-
 <!-- ========================================================= -->
-<!-- ROHAN HANDE | CYBERPUNK AI DEVELOPER PROFILE               -->
+<!-- ROHAN HANDE | CYBERPUNK HACKER AI PROFILE | SINGLE FILE    -->
 <!-- ========================================================= -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=320&color=0:020024,20:090979,45:001F54,70:00D4FF,100:7B2CFF&text=ROHAN%20HANDE&fontSize=75&fontColor=FFFFFF&fontAlignY=40&stroke=00F7FF&strokeWidth=2&animation=twinkling&desc=AI%20ENGINEER%20%7C%20CYBER%20INTELLIGENCE%20LAB&descSize=18&descAlignY=60"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:020024,20:090979,45:001F54,70:00D4FF,100:7B2CFF&text=ACCESS%20GRANTED&fontSize=62&fontColor=00FF9C&fontAlignY=42&stroke=00F7FF&strokeWidth=2&animation=twinkling&desc=%3E%20root%40neural-core%20%7C%20breach%20successful&descSize=17&descAlignY=68"/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&height=200&color=0:00F7FF,50:7B2CFF,100:FF2BD6&text=ROHAN%20HANDE&fontSize=70&fontColor=FFFFFF&fontAlignY=45&stroke=000000&strokeWidth=2&animation=fadeIn&desc=AI%20ENGINEER%20%7C%20CYBER%20INTELLIGENCE%20LAB&descSize=18&descAlignY=72"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=23&duration=1800&pause=500&color=00F7FF&center=true&vCenter=true&width=950&height=70&lines=%3E+BOOTING+ROHAN'S+AI+SYSTEM...;%3E+ACCESSING+NEURAL+NETWORK...;%3E+ARTIFICIAL+INTELLIGENCE+ENGINEER;%3E+COMPUTER+VISION+%7C+DEEP+LEARNING;%3E+GENERATIVE+AI+%7C+LLMs+%7C+AI+AGENTS;%3E+SYSTEM+ONLINE.+WELCOME+TO+MY+WORLD."/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&duration=1600&pause=400&color=00F7FF&center=true&vCenter=true&width=1000&height=70&lines=%3E+sudo+access+--neural-core;%3E+BYPASSING+FIREWALL...+%5B+OK+%5D;%3E+DECRYPTING+NEURAL+NETWORK...+%5B+OK+%5D;%3E+LOADING+COMPUTER+VISION+%7C+DEEP+LEARNING;%3E+LOADING+GENERATIVE+AI+%7C+LLMs+%7C+AI+AGENTS;%3E+ROOT+ACCESS+GRANTED.+WELCOME+TO+MY+WORLD."/>
 
 <br/>
+
+<img src="https://media.giphy.com/media/YQitE4YNQNahy/giphy.gif" width="420" alt="Hacker typing animation"/>
+
+<br/><br/>
 
 <img src="https://img.shields.io/badge/SYSTEM-ONLINE-00FF9C?style=for-the-badge&logo=probot&logoColor=black"/>
 <img src="https://img.shields.io/badge/IDENTITY-AI_ENGINEER-00D9FF?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/CORE-INTELLIGENCE-9B59FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ACCESS-ROOT-FF2BD6?style=for-the-badge"/>
 
 <br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=ro7nzz&style=for-the-badge&color=00F7FF&label=VISITORS"/>
 <img src="https://img.shields.io/github/followers/ro7nzz?style=for-the-badge&color=7B2CFF&label=NETWORK"/>
+<img src="https://img.shields.io/github/stars/ro7nzz?style=for-the-badge&color=FF2BD6&label=STARS&logo=github"/>
 
 </div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=gradient&customColorList=0,2,5,12&animation=twinkling"/>
+
+## `00 // BOOT_SEQUENCE`
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2200&pause=600&color=00FF9C&background=050816&center=false&vCenter=true&multiline=true&repeat=true&width=760&height=230&lines=%24+whoami;%3E+rohan_hande+%3A%3A+ai_ml_developer+%3A%3A+india;%24+cat+mission.txt;%3E+solve+real-world+problems+through+intelligent+technology;%24+ls+.%2Fprojects;%3E+road-ai%2F++++aquasense-ai%2F;%24+.%2Fload_models.sh;%3E+%5B+OK+%5D+YOLO11n+%5B+OK+%5D+PyTorch+%5B+OK+%5D+FastAPI;%24+status+--now;%3E+BUILDING...+EXPERIMENTING...+SYSTEM+ONLINE"/>
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=gradient&customColorList=12,5,2,0&animation=twinkling"/>
 
 <div align="center">
 
@@ -44,8 +61,8 @@
 ║  STATUS     : Building & Experimenting       ║
 ║  LOCATION   : India                          ║
 ╠══════════════════════════════════════════════╣
-║  MISSION    : Solve real-world problems     ║
-║               through intelligent technology║
+║  MISSION    : Solve real-world problems      ║
+║               through intelligent technology ║
 ╚══════════════════════════════════════════════╝
 ```
 
@@ -61,13 +78,13 @@
 - ⚡ Building practical AI-powered solutions.
 - 🚀 Interested in collaborating on AI/ML projects.
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=gradient&customColorList=0,2,5,12&animation=twinkling"/>
 
 ## `02 // NEURAL_CAPABILITIES`
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="280" alt="Futuristic technology animation"/>
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300" alt="Futuristic technology animation"/>
 
 <br/>
 
@@ -80,13 +97,13 @@
 
 </div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=gradient&customColorList=12,5,2,0&animation=twinkling"/>
 
 ## `03 // PROJECT_LAB`
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2500&pause=700&color=00F7FF&center=true&vCenter=true&width=700&lines=LOADING+PROJECT+DATABASE...;TWO+ACTIVE+INTELLIGENCE+SYSTEMS+FOUND."/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2500&pause=700&color=00F7FF&center=true&vCenter=true&width=700&lines=LOADING+PROJECT+DATABASE...;DECRYPTING+FILES...+%5B+OK+%5D;TWO+ACTIVE+INTELLIGENCE+SYSTEMS+FOUND."/>
 
 </div>
 
@@ -162,7 +179,7 @@
 </tr>
 </table>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=gradient&customColorList=0,2,5,12&animation=twinkling"/>
 
 ## `04 // TECHNOLOGY_MATRIX`
 
@@ -188,7 +205,7 @@
 
 </div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=gradient&customColorList=12,5,2,0&animation=twinkling"/>
 
 ## `05 // GITHUB_INTELLIGENCE`
 
@@ -210,13 +227,13 @@
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ro7nzz&bg_color=050816&color=00F7FF&line=9B59FF&point=FFFFFF&area=true&hide_border=true&custom_title=NEURAL%20ACTIVITY%20%7C%20CONTRIBUTION%20GRAPH"/>
 
-<br/>
+<br/><br/>
 
 <img src="https://github-profile-trophy.vercel.app/?username=ro7nzz&theme=discord&no-frame=true&no-bg=true&margin-w=8&row=1" width="100%"/>
 
 </div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=gradient&customColorList=0,2,5,12&animation=twinkling"/>
 
 ## `06 // PROBLEM_SOLVING`
 
@@ -230,13 +247,13 @@
 
 </div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=gradient&customColorList=12,5,2,0&animation=twinkling"/>
 
 ## `07 // ESTABLISH_CONNECTION`
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2200&pause=700&color=00F7FF&center=true&vCenter=true&width=700&lines=OPENING+COMMUNICATION+CHANNEL...;CONNECT+WITH+ROHAN+HANDE."/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2200&pause=700&color=00F7FF&center=true&vCenter=true&width=700&lines=OPENING+COMMUNICATION+CHANNEL...;ENCRYPTING+HANDSHAKE...+%5B+OK+%5D;CONNECT+WITH+ROHAN+HANDE."/>
 
 <br/>
 
@@ -258,7 +275,7 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=THINK+BEYOND+LIMITS.;BUILD+BEYOND+EXPECTATIONS.;THE+FUTURE+IS+INTELLIGENT.+%F0%9F%A4%96"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=THINK+BEYOND+LIMITS.;BUILD+BEYOND+EXPECTATIONS.;THE+FUTURE+IS+INTELLIGENT.+%F0%9F%A4%96;%3E+CONNECTION+TERMINATED.+STAY+DANGEROUS."/>
 
 <br/><br/>
 
